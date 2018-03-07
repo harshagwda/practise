@@ -1,3 +1,4 @@
 echo "hello Git!"
 echo "hello again!"
 echo "Bye Bye....See you again!"
+sadm ciadacicv,asv,majad,aclm
