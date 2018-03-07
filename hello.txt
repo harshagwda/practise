@@ -1,1 +1,2 @@
 echo "hello Git!"
+echo "hello again!"
